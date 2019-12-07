@@ -5,4 +5,4 @@ Get from [Udacity](https://github.com/udacity/deep-learning-v2-pytorch/tree/mast
 
 Install dependencies with pip install -r requirements.txt
 
-https://github.com/udacity/deep-learning-v2-pytorch/tree/master/batch-norm
+
